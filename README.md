@@ -28,5 +28,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 ## images
 
 ![image] (assets\images\Budget Tracker screenshot 1.png?raw=true "Screenshot")
+![Budget Tracker screenshot 1](https://user-images.githubusercontent.com/71949043/125182892-d64bd400-e1c6-11eb-9939-a278c91d7fbf.png)
 
 ![image] (assets\images\Budget Tracker screenshot 2.png?raw=true "Screenshot")
+![Budget Tracker screenshot 2](https://user-images.githubusercontent.com/71949043/125182904-e794e080-e1c6-11eb-957f-1443ad5043e4.png)
+
